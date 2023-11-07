@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Hangman Game
+  role: VS Code, Python
+  #duration: 2012 &mdash; Present
+  # url: "#"
+  description: <ul class="resume-item"><li> Built a program that allows user to guess individual letters while
+avoiding a series of incorrect guesses, ultimately aiming to reveal
+the complete word.</li><li>Impacting user engagement by implementing innovative
+features and enhancements in user experience.
+.</li></ul>
+# Springfield Community Outreach Group
+- project: Caesar Cipher
+  role: VS Code, Python
+  #duration: 2007 &mdash; Present
+  # url: "#"
+  description: <ul class="resume-item"><li> Built a program that allows user to shift characters in text by
+fixed number of positions,providing basic data security through
+letter substitution.
+</li><li> Impacting user’s data security by implementing character
+substitution with a fixed shift.</li></ul>
